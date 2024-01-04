@@ -54,3 +54,4 @@ The scanner supports outputting the scan result as json. To do so, provide the `
     "Vulnerable": false
 }
 ```
+
