@@ -6,7 +6,7 @@ on:
     # Publish semver tags as releases.
     tags: ["*.*.*"]
   pull_request:
-    branches: ["main"]
+    branches: ["main", "docker"]
 
 env:
   REGISTRY: ghcr.io
